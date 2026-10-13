@@ -74,18 +74,19 @@ This end-to-end data analytics project simulates a corporate-level workflow to a
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/nandeeshn0018-eng.git
 
 ```
 
 
 2. **Run the Python Scripts:**
 * Open the Jupyter Notebook or Python script to review the data cleaning and EDA steps.
+* customer_analyzed.ipynb
 
 
 3. **Execute SQL Queries:**
-* Load the cleaned dataset into your SQL database (PostgreSQL/MySQL) and run the provided `.sql` scripts.
+* Load the cleaned dataset into your SQL database (PostgreSQL/MySQL) and run the provided `Customer_analysis_behavior.sql` scripts.
 
 
 4. **Explore the Power BI Dashboard:**
-* Open the `.pbix` file in Power BI Desktop to interact with the visualizations.
+* Open the `customer.pbix` file in Power BI Desktop to interact with the visualizations.
